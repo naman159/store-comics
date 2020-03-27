@@ -14,6 +14,7 @@ def main():
         print("del: Delete a comic listing.")
         print("lst: List all the comics in your list.")
         print("Example: add abc-1")
+        main()
     else:
         det = input1[0:3]
 
