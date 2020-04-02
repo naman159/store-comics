@@ -13,3 +13,5 @@ Run it on your PC:
 2. cd into the cloned file
 3. Run python store-comics.py
 4. Your comic list handler is ready!
+
+A part of my CodeCauseYourBored mini projects;)
